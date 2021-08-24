@@ -31,7 +31,7 @@ knitr::opts_chunk$set(echo = TRUE)
 #import raw data and save data for plot
 ```
 
-```{r pressure, echo=FALSE, dpi=300, fig.align='center'}
+```{r pressure, echo=FALSE, dpi=300, fig.align='center', message=FALSE, warning=FALSE}
 #plot your figure here
 ```
 
