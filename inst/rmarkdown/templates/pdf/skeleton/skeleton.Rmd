@@ -19,8 +19,6 @@ header-includes:
 - \fancyfoot[L]{\today}
 - \fancyfoot[C]{Confidential}
 - \fancyfoot[R]{\thepage}
-params:
-  output_dir:
 ---
 
 ```{r setup, include=FALSE}
