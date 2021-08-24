@@ -1,0 +1,22 @@
+{
+    "collab_server" : "",
+    "contents" : "",
+    "created" : 1629817302829.000,
+    "dirty" : false,
+    "encoding" : "UTF-8",
+    "folds" : "",
+    "hash" : "144215033",
+    "id" : "9A31B2DC",
+    "lastKnownWriteTime" : 1629817311,
+    "last_content_update" : 1629817311391,
+    "path" : "~/Documents/GitHub/eCTDformat/inst/rmarkdown/templates/pdf/template.yaml",
+    "project_path" : "inst/rmarkdown/templates/pdf/template.yaml",
+    "properties" : {
+        "cursorPosition" : "3,17",
+        "scrollLine" : "0"
+    },
+    "relative_order" : 3,
+    "source_on_save" : false,
+    "source_window" : "",
+    "type" : "yaml"
+}
