@@ -1,0 +1,39 @@
+---
+title: ""
+author: "Your Name"
+date: "The Date"
+geometry: margin=1in
+papersize: letter
+classoption:
+  landscape
+fontsize: 12pt
+output:
+  pdf_document:
+    fig_width: 8.25
+    fig_height: 6.375
+header-includes:
+- \usepackage{fancyhdr}
+- \pagestyle{fancy}
+- \fancyhead[L]{Amador Bioscience, Inc.\\Project No.}
+- \fancyhead[R]{Sponsor:\\Study No.}
+- \fancyfoot[L]{\today}
+- \fancyfoot[C]{Confidential}
+- \fancyfoot[R]{\thepage}
+params:
+  output_dir:
+---
+
+```{r setup, include=FALSE}
+knitr::opts_chunk$set(echo = TRUE)
+#import your setup, titlefootnote, and template in this chunck
+```
+
+
+```{r echo=FALSE}
+#import raw data and save data for plot
+```
+
+```{r pressure, echo=FLASE, dpi=300, fig.align='center'}
+#plot your figure here
+```
+
