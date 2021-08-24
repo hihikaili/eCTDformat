@@ -25,7 +25,7 @@ params:
 
 ```{r setup, include=FALSE}
 knitr::opts_chunk$set(echo = TRUE)
-#import your setup, titlefootnote, and template in this chunck
+#import your setup, titlefootnote, and template in this chunk
 ```
 
 
