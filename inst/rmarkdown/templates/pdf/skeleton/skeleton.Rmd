@@ -11,6 +11,15 @@ output:
   pdf_document:
     fig_width: 8.25
     fig_height: 6.375
+---  
+ 
+```{r setup, include=FALSE}
+#import your setup file
+source()
+```
+
+    
+---
 header-includes:
 - \usepackage{fancyhdr}
 - \pagestyle{fancy}
@@ -38,9 +47,9 @@ header-includes:
 
 
 
-```{r setup, include=FALSE}
+```{r theme, include=FALSE}
 knitr::opts_chunk$set(echo = TRUE)
-#import your setup, titlefootnote, and template in this chunk
+#import your titlefootnote, and template in this chunk
 
 ```
 
