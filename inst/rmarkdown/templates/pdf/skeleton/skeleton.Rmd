@@ -23,8 +23,8 @@ source()
 header-includes:
 - \usepackage{fancyhdr}
 - \pagestyle{fancy}
-- \fancyhead[L]{Company Name\\Project No.}
-- \fancyhead[R]{Sponsor:\\Study No.}
+- \fancyhead[L]{`r company`\\Project No. `r projectNo`}
+- \fancyhead[R]{Sponsor:`r sponsor`\\Study No. `r studyNo`}
 - \fancyfoot[L]{\today}
 - \fancyfoot[C]{Confidential}
 - \fancyfoot[R]{\thepage}
