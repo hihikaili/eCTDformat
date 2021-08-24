@@ -14,7 +14,7 @@ output:
 header-includes:
 - \usepackage{fancyhdr}
 - \pagestyle{fancy}
-- \fancyhead[L]{Amador Bioscience, Inc.\\Project No.}
+- \fancyhead[L]{Company Name\\Project No.}
 - \fancyhead[R]{Sponsor:\\Study No.}
 - \fancyfoot[L]{\today}
 - \fancyfoot[C]{Confidential}
