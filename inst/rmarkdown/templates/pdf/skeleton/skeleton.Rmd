@@ -19,7 +19,7 @@ output:
 source()
 ```
 
-    
+<!--    
 ---
 header-includes:
 - \usepackage{fancyhdr}
@@ -30,6 +30,7 @@ header-includes:
 - \fancyfoot[C]{`r note`}
 - \fancyfoot[R]{\thepage}
 ---
+-->
 
 ```{r notes, include=FALSE}
 ## Customer Name        :
