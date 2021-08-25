@@ -68,4 +68,7 @@ knitr::opts_chunk$set(echo = TRUE)
 
 
 
+```{r output, include=FALSE}
+rmarkdown::render(paste0(file, ".Rmd"), output_dir="fill in the path")
+```
 
