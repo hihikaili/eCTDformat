@@ -66,9 +66,6 @@ knitr::opts_chunk$set(echo = TRUE, message=FALSE, warning=FALSE)
 ```
 
 
-
-
-```{r output, include=FALSE}
-rmarkdown::render(paste0(file, ".Rmd"), output_dir="fill in the path")
-```
+<!-- After running all the chunks above, run the following code in the console to knit to a Rmd folder -->
+<!-- eCTDformat::knit_to_folder(paste0(file, ".Rmd")) -->
 
