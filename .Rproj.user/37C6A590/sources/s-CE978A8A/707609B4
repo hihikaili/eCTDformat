@@ -5,14 +5,14 @@
     "dirty" : false,
     "encoding" : "UTF-8",
     "folds" : "",
-    "hash" : "3426453058",
+    "hash" : "2676795500",
     "id" : "707609B4",
-    "lastKnownWriteTime" : 1629914107,
-    "last_content_update" : 1629914107628,
+    "lastKnownWriteTime" : 1629914333,
+    "last_content_update" : 1629914334007,
     "path" : "~/Documents/GitHub/eCTDformat/R/knit_to_folder.R",
     "project_path" : "R/knit_to_folder.R",
     "properties" : {
-        "cursorPosition" : "3,28",
+        "cursorPosition" : "3,46",
         "scrollLine" : "0",
         "tempName" : "Untitled1"
     },
