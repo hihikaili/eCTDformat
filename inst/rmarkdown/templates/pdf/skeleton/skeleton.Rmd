@@ -15,6 +15,7 @@ output:
  
 ```{r setup, include=FALSE}
 #import your setup file
+#include the info of company, project no., sponsor, study no. in your setup file
 source()
 ```
 
@@ -66,12 +67,5 @@ knitr::opts_chunk$set(echo = TRUE)
 
 
 
-
-
-
-```{r}
-#output into a specified folder
-rmarkdown::render(paste0(file, ".Rmd"), output_dir=pathTLFs)
-```
 
 
