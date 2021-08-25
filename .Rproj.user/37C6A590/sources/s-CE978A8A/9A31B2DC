@@ -5,14 +5,14 @@
     "dirty" : false,
     "encoding" : "UTF-8",
     "folds" : "",
-    "hash" : "2831471581",
+    "hash" : "3580604679",
     "id" : "9A31B2DC",
-    "lastKnownWriteTime" : 1629912392,
-    "last_content_update" : 1629912392465,
+    "lastKnownWriteTime" : 1629912867,
+    "last_content_update" : 1629912867943,
     "path" : "~/Documents/GitHub/eCTDformat/inst/rmarkdown/templates/pdf/template.yaml",
     "project_path" : "inst/rmarkdown/templates/pdf/template.yaml",
     "properties" : {
-        "cursorPosition" : "5,0",
+        "cursorPosition" : "3,17",
         "scrollLine" : "0"
     },
     "relative_order" : 3,
