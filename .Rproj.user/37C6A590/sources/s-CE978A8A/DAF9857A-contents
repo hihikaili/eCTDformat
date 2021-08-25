@@ -55,7 +55,7 @@ knitr::opts_chunk$set(echo = TRUE)
 ```
 
 
-```{r echo=FALSE}
+```{r data, echo=FALSE}
 #import raw data and save data for plot
 
 ```

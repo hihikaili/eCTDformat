@@ -5,15 +5,15 @@
     "dirty" : false,
     "encoding" : "UTF-8",
     "folds" : "",
-    "hash" : "3316624950",
+    "hash" : "3063627932",
     "id" : "DAF9857A",
-    "lastKnownWriteTime" : 1629906989,
-    "last_content_update" : 1629906989200,
+    "lastKnownWriteTime" : 1629910919,
+    "last_content_update" : 1629910919231,
     "path" : "~/Documents/GitHub/eCTDformat/inst/rmarkdown/templates/pdf/skeleton/skeleton.Rmd",
     "project_path" : "inst/rmarkdown/templates/pdf/skeleton/skeleton.Rmd",
     "properties" : {
-        "cursorPosition" : "71,68",
-        "scrollLine" : "58"
+        "cursorPosition" : "57,12",
+        "scrollLine" : "49"
     },
     "relative_order" : 2,
     "source_on_save" : false,
