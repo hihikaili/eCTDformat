@@ -1,0 +1,23 @@
+{
+    "collab_server" : "",
+    "contents" : "",
+    "created" : 1629912349597.000,
+    "dirty" : false,
+    "encoding" : "UTF-8",
+    "folds" : "",
+    "hash" : "0",
+    "id" : "707609B4",
+    "lastKnownWriteTime" : 1629912379,
+    "last_content_update" : 1629912379677,
+    "path" : "~/Documents/GitHub/eCTDformat/R/knit_to_folder.R",
+    "project_path" : "R/knit_to_folder.R",
+    "properties" : {
+        "cursorPosition" : "7,0",
+        "scrollLine" : "0",
+        "tempName" : "Untitled1"
+    },
+    "relative_order" : 4,
+    "source_on_save" : false,
+    "source_window" : "",
+    "type" : "r_source"
+}
