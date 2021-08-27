@@ -67,5 +67,5 @@ knitr::opts_chunk$set(echo = TRUE, message=FALSE, warning=FALSE)
 
 
 <!-- After running all the chunks above, run the following code in the console to knit to a Rmd folder -->
-<!-- eCTDformat::knit_to_folder(paste0(Outname, ".Rmd")) -->
+<!-- eCTDformat::knit_to_folder(paste0(file, ".Rmd")) -->
 
